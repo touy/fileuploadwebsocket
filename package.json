@@ -1,0 +1,24 @@
+{
+  "name": "fileuploadwebsocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touy/fileuploadwebsocket.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "websocket"
+  ],
+  "author": "touy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touy/fileuploadwebsocket/issues"
+  },
+  "homepage": "https://github.com/touy/fileuploadwebsocket#readme"
+}
